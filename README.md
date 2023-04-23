@@ -3,6 +3,7 @@
 
 
 ![Mr-funkinguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-funkinguy&theme=dark&show_icons=true)
+
 ![Mr-funkinguy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-funkinguy&hide=html,&hide_border=true)
 
       
