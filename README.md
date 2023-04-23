@@ -2,7 +2,9 @@
 
 ## About Me
 
-I Love Javascript
+I Love Javascript ❤️
+
+Javascript Is Underrated
 
 
 ![Mr-funkinguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-funkinguy&theme=dark&show_icons=true)
