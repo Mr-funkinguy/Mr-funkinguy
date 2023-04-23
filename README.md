@@ -6,4 +6,4 @@
 
 <a href="https://discord.gg/SZtXnZxySk" target="_blank"><img src="https://github.com/Mr-funkinguy/funkinguy/blob/output/snake.svg" alt="snake"></a>
 
-<iframe src="https://mr-funkinguy.github.io/Mr-funkinguy/type.html" width="100%" height="200px"></iframe>
+<a> <iframe src="https://mr-funkinguy.github.io/Mr-funkinguy/type.html" width="100%" height="200px"></iframe></a>
